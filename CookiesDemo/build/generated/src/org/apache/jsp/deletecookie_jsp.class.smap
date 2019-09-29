@@ -1,0 +1,12 @@
+SMAP
+deletecookie_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletecookie.jsp
+deletecookie.jsp
+*L
+5,11:44
+16,10:56
+25,4:66
+*E
