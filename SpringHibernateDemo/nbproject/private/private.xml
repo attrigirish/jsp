@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/src/java/service/StudentService.java</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/web/WEB-INF/jsp/addstudent.jsp</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/src/java/controllers/StudentController.java</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/web/WEB-INF/jsp/displaystudents.jsp</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/src/java/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/girish/Documents/NetBeansProjects/SpringHibernateDemo/web/WEB-INF/jsp/displaystudent.jsp</file>
+        </group>
+    </open-files>
+</project-private>
